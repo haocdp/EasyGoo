@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/f965a61da76851c6b824bca43c94c907dff4e4ba/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6457a81d814fb01b42f6ab2dcef68cfe1133a7cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/32c63ee31b7572e7928321e6bf520cee45f8bd17/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/classes_ea22383a5426d5cd2a268611f8ed605644eb2bdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/f965a61da76851c6b824bca43c94c907dff4e4ba/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_dadaeca856a788a812c83c51f4c8b283d935a9ff.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/07fb5802ec14d1069377d4be39266b9960fb55d5/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_2c4de946df8b52e0b10cca1705bd49e949de08b7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/f965a61da76851c6b824bca43c94c907dff4e4ba/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_dadaeca856a788a812c83c51f4c8b283d935a9ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/32c63ee31b7572e7928321e6bf520cee45f8bd17/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ea22383a5426d5cd2a268611f8ed605644eb2bdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/521e3b08f22edbddefd78097c040bcab896d3db0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4fb017b8168d74cc7b966bf92ec11cd081b77640/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/07fb5802ec14d1069377d4be39266b9960fb55d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/classes_d6f69f8f6f75ce07cf6300cc350701c042244b57.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/07fb5802ec14d1069377d4be39266b9960fb55d5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d6f69f8f6f75ce07cf6300cc350701c042244b57/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/32c63ee31b7572e7928321e6bf520cee45f8bd17/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_bab6a45d0a8104d3766d78c6d6cd9f11fe109144.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/32c63ee31b7572e7928321e6bf520cee45f8bd17/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_bab6a45d0a8104d3766d78c6d6cd9f11fe109144/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/d7b51c11052f61678ae165db0969cc1de8519075/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44287b63e7a9ec98ac4038a5a047a0531fb8bede/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_b665e3eea87a0fd727333846a390046439fbdd4c.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/cee26cac69d37752795c39c2927b74a8ff2095f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca40eca3e3c90f152a7974856fc940a8354adf04/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/521e3b08f22edbddefd78097c040bcab896d3db0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/classes_4fb017b8168d74cc7b966bf92ec11cd081b77640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/cee26cac69d37752795c39c2927b74a8ff2095f1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/classes_ca40eca3e3c90f152a7974856fc940a8354adf04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/d7b51c11052f61678ae165db0969cc1de8519075/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/classes_44287b63e7a9ec98ac4038a5a047a0531fb8bede.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/9836ce60334d7883255c6357f16177100f9ed5f4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/classes_2a546771347e46083c4be783cb0abe03a6282d76.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/9836ce60334d7883255c6357f16177100f9ed5f4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2a546771347e46083c4be783cb0abe03a6282d76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_780b6239dcae9ed2eac0eba36cb030e1ec4465ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/acb7d4eab7239b2f2bb3328477fba2f01d28443c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d27f2b7dbcb7869c64b0cb03b40d3c517fcf356f/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/d7b51c11052f61678ae165db0969cc1de8519075/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9e3a326af2749008eff51904bc8d8f44e281a215.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_780b6239dcae9ed2eac0eba36cb030e1ec4465ae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/d7b51c11052f61678ae165db0969cc1de8519075/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_9e3a326af2749008eff51904bc8d8f44e281a215/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/acb7d4eab7239b2f2bb3328477fba2f01d28443c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/classes_d27f2b7dbcb7869c64b0cb03b40d3c517fcf356f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/dc8e656044cada9829bd6f31df000e3b4e10b178/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1a137b4f164ab596582d76944b0b9f24f855456/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/cee26cac69d37752795c39c2927b74a8ff2095f1/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_876befab28068094e4528bd657448f654f528cc3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/cee26cac69d37752795c39c2927b74a8ff2095f1/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_876befab28068094e4528bd657448f654f528cc3/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/dc8e656044cada9829bd6f31df000e3b4e10b178/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/classes_b1a137b4f164ab596582d76944b0b9f24f855456.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_b665e3eea87a0fd727333846a390046439fbdd4c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_41c419a6933dca31eff328c5545327d6e50e8659/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/07fb5802ec14d1069377d4be39266b9960fb55d5/output/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2c4de946df8b52e0b10cca1705bd49e949de08b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/.android/build-cache/6340b62bf8215087107833a0ac7d4e2153505751/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5f5ec69dcc99916ccfe6f705c559f78af82a944/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/f965a61da76851c6b824bca43c94c907dff4e4ba/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/classes_6457a81d814fb01b42f6ab2dcef68cfe1133a7cf.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6eef6260df1e582d7f2ceb85bc570ee87de96aab">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_56b5016f36e819613a9e2b8edd4d25df7c57be9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/haoc_dp/.android/build-cache/6340b62bf8215087107833a0ac7d4e2153505751/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/haoc_dp/Android-Studio-Workspace/EasyGoo/app/build/intermediates/pre-dexed/debug/classes_d5f5ec69dcc99916ccfe6f705c559f78af82a944.jar" />
+    </item>
+
+</items>
